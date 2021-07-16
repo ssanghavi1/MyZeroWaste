@@ -1,3 +1,13 @@
 video {
     max-width: 100%;
   }
+
+#bg-color{
+    background-color: #3EB489!important;
+}
+
+.centered-div{
+    position: relative;
+    top: 50%;
+    transform: translateY(-30%);
+}
