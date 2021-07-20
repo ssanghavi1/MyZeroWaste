@@ -1,13 +1,134 @@
+
 video {
     max-width: 100%;
   }
 
 #bg-color{
     background-color: #3EB489!important;
+ 
 }
-
+#white{
+    color: white !important;
+}
+#white1{
+    color: white !important;
+}
+#white2{
+    color: white !important;
+}
+#white3{
+    color: white !important;
+}
+#white4{
+    color: white !important;
+}
+#white5{
+    color: white !important;
+}
+#white6{
+    color: white !important;
+}
 .centered-div{
     position: relative;
     top: 50%;
     transform: translateY(-30%);
+    left: 150px;
+}
+#events{
+    color: white;
+    background-color: #EB9235!important;
+}
+#events2{
+    color: white;
+    background-color: #EB9235!important;
+}
+#events3{
+    color: white;
+    background-color: #EB9235!important;
+}
+#blog1{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog1{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog2{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog3{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog4{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog5{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog6{
+    color: white;
+    background-color: #25a88c!important;
+}
+#blog7{
+    color: white;
+    background-color: #25a88c!important;
+}
+.missiondiv{
+    float: right;
+    margin-right: 300px;
+    margin-top: 200px;
+}
+#fontcolor{
+    color: black;
+}
+#titlecolor{
+    color: black;
+}
+#community{
+   margin-left: 30px; 
+}
+#eventlayout{
+   margin-right: 30px;   
+}
+#events4{
+    color: white;
+    background-color: #EB9235!important;
+}
+#events5{
+    color: white;
+    background-color: #EB9235!important;
+    }
+#events6{
+    color: white;
+    background-color: #EB9235!important;
+}
+#events7{
+    color: white;
+    background-color: #EB9235!important;
+    }
+    #rmbutton{
+        color: white;
+        text-decoration: underline;
+    }
+    #text1{
+        color:white;
+    }
+    #text2{
+        color:white;
+    }
+    #text3{
+        color:white;
+    }
+    #review1{
+    color: white;
+    background-color: #EB9235!important;
+}
+    #review2{
+    color: white;
+    background-color: #EB9235!important;
 }
